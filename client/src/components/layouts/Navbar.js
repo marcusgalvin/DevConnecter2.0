@@ -10,6 +10,7 @@ const NavBar = () => {
       </h1>
       <ul>
         <li>
+          {/* profile */}
           <a href="profiles.html">Developers</a>
         </li>
         <li>
