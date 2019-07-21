@@ -14,6 +14,7 @@ const NavBar = () => {
           <a href="profiles.html">Developers</a>
         </li>
         <li>
+          {/* register */}
           <a href="register.html">Register</a>
         </li>
         <li>
